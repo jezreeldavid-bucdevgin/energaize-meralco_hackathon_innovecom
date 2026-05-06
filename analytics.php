@@ -1,0 +1,1 @@
+<?php include 'analytics_charts.php'; ?>
